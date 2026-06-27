@@ -27,13 +27,18 @@
 
 ---
 
-## 📊 Featured Projects
+## ## 📊 Featured Projects
 
 | Project | Tools | Description |
 |---|---|---|
-| [Customer Churn Analysis](https://github.com/Sakshi0523/Customer-Churn-Analysis) | SQL · Power BI · DAX | End-to-end analysis of 19K+ records to identify churn drivers |
-| [Superstore Sales Analysis](https://github.com/Sakshi0523/Superstore-Sales-Analysis) | Power BI | YOY growth & regional performance on $2M in sales data |
-| [Blinkit Market Analysis](https://github.com/Sakshi0523/Blinkit-Market-Analysis) | Power BI | $1.20M sales analysis across 8,500+ items |
+| [Customer Churn Analysis](#) | SQL · Power BI · DAX | End-to-end analysis of 19K+ records to identify churn drivers |
+| [Superstore Sales Analysis](#) | Power BI | YOY growth & regional performance on $2M in sales data |
+| [Blinkit Market Analysis](#) | Power BI | $1.20M sales analysis across 8,500+ items |
+| [Customer Behavior Analysis](https://github.com/Sakshi0523/Customer_Behavior_Analysis) | Python · SQL · Power BI | Segmentation & purchase-driver analysis on retail shopping data to optimize marketing strategy |
+
+---
+
+*Turning data into dialogue, one dashboard at a time 📊✨*
 
 ---
 
